@@ -8,15 +8,13 @@
 - [論文研讀紀錄](#論文研讀紀錄)
   - [論文一：One-Dimensional LSTM-Regulated Deep Residual Network for Data-Driven Fault Detection in Electric Machines](#one-dimensional-lstm-regulated-deep-residual-network-for-data-driven-fault-detection-in-electric-machines)
   - [論文二: Online Detection of Induction Motor’s Stator Winding Short-Circuit Faults](#online-detection-of-induction-motors-stator-winding-short-circuit-faults)
-- [討論](#討論)
-- [待解決問題](#待解決問題)
-- [參考資料](#參考資料)
+
 
 
 ## 論文原文列表(原文摘要對應)
 
 - [x] [論文一：One-Dimensional LSTM-Regulated Deep Residual Network for Data-Driven Fault Detection in Electric Machines](https://itrihq-my.sharepoint.com/:b:/g/personal/b20613_itri_org_tw/Eb78VWLnmlZAr9EDMNqEoSsBeo1dQ2IECybsa_72IKnWfw?e=RYWl6B) - Min-Fu Hsieh 2024
-- [ ] 論文二：標題、作者、連結
+- [x] [論文二: Online Detection of Induction Motor’s Stator Winding Short-Circuit Faults](https://itrihq-my.sharepoint.com/:b:/g/personal/b20613_itri_org_tw/Ee5T2pmYQl9BnOCEvrxPpBYBksBPpkVFt1QGXGtJ-HdJ0g?e=t0ualC) - Min-Fu Hsieh 2014
 
 
 ## 論文研讀紀錄
