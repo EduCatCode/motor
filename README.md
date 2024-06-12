@@ -63,7 +63,8 @@ graph TD;
     bearing --> PRONOSTIA
     bearing --> Fraunhofer
 ```
-```markdown=    
+
+
 ## 異常狀態
 - 1.轉子定子異常[2][3][8][9][10]
 - 2.軸承異常 [1][5][6][7][8][10]
@@ -91,7 +92,7 @@ graph TD;
 - 11.功率頻譜密度（PSD）的振幅來進行診斷[8]
 - 12.快速峰度圖和自動圖用於振動信號的分析[9]
 - 13.電流的三次諧波用於電流信號的分析。[9]
-```
+
 
 ## 目錄
 
@@ -113,14 +114,7 @@ graph TD;
 
 - [x] [論文1：One-Dimensional LSTM-Regulated Deep Residual Network for Data-Driven Fault Detection in Electric Machines](https://itrihq-my.sharepoint.com/:b:/g/personal/b20613_itri_org_tw/Eb78VWLnmlZAr9EDMNqEoSsBeo1dQ2IECybsa_72IKnWfw?e=RYWl6B) - Min-Fu Hsieh 2024
 - [x] [論文2：Online Detection of Induction Motor’s Stator Winding Short-Circuit Faults](https://itrihq-my.sharepoint.com/:b:/g/personal/b20613_itri_org_tw/Ee5T2pmYQl9BnOCEvrxPpBYBksBPpkVFt1QGXGtJ-HdJ0g?e=t0ualC) - Min-Fu Hsieh 2014
-- [] [論文3：]()
-- [] [論文4：]()
-- [] [論文5：]()
-- [] [論文6：]()
-- [] [論文7：]()
-- [] [論文8：]()
-- [] [論文9：]()
-- [] [論文10：]()
+
 
 ## 論文研讀紀錄
 
